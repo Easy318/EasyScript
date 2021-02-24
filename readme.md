@@ -1,6 +1,6 @@
 # CLI接口
 
-这是一个复杂应用的命令行接口程序包,它依赖于[click](https://click-docs-zh-cn.readthedocs.io/zh/latest/index.html),通过该接口可以方便的扩展自己项目的脚本命令,它是可拔插的
+这是一个复杂应用的命令行接口程序包,它依赖于[Click](https://click-docs-zh-cn.readthedocs.io/zh/latest/index.html),通过该接口可以方便的扩展自己项目的脚本命令,它是可拔插的
 
 ## 脚本命令开发
 
