@@ -27,7 +27,7 @@ pip uninstall easy-script
 
 当项目开发完,一切准备就绪时,该cli脚本也可以单独捆绑程序打包发布  
 
-打包:
+**打包:**
 
 ```shell
 # 同样需要先cd到脚本根目录
@@ -36,10 +36,10 @@ python setup.py sdist
 
 文件会被打包到`.../dist/easy_script-0.1.tar.gz
 
-安装:
+**安装:**
 
 ```shell
 pip install easy_script-0.1.tar.gz
 ```
 
-安装完以后,打包时留下的`build`文件(`.../dist/, .../easy_script.egg-info/)都可以删除
+安装完以后,打包时留下的`build`文件(`.../dist/`, `.../easy_script.egg-info/`)都可以删除
